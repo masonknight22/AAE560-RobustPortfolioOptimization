@@ -1,0 +1,6 @@
+addpath("yalmip\")
+addpath("yalmip\demos\")
+addpath("yalmip\extras\")
+addpath("yalmip\modules\")
+addpath("yalmip\operators\")
+addpath("yalmip\solvers\")
